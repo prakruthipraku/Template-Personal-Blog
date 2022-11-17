@@ -1,32 +1,26 @@
-Josefin Sans Variable Font
-==========================
+Lexend Deca Variable Font
+=========================
 
-This download contains Josefin Sans as both variable fonts and static fonts.
+This download contains Lexend Deca as both a variable font and static fonts.
 
-Josefin Sans is a variable font with this axis:
+Lexend Deca is a variable font with this axis:
   wght
 
-This means all the styles are contained in these files:
-  JosefinSans-VariableFont_wght.ttf
-  JosefinSans-Italic-VariableFont_wght.ttf
+This means all the styles are contained in a single file:
+  LexendDeca-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Josefin Sans:
-  static/JosefinSans-Thin.ttf
-  static/JosefinSans-ExtraLight.ttf
-  static/JosefinSans-Light.ttf
-  static/JosefinSans-Regular.ttf
-  static/JosefinSans-Medium.ttf
-  static/JosefinSans-SemiBold.ttf
-  static/JosefinSans-Bold.ttf
-  static/JosefinSans-ThinItalic.ttf
-  static/JosefinSans-ExtraLightItalic.ttf
-  static/JosefinSans-LightItalic.ttf
-  static/JosefinSans-Italic.ttf
-  static/JosefinSans-MediumItalic.ttf
-  static/JosefinSans-SemiBoldItalic.ttf
-  static/JosefinSans-BoldItalic.ttf
+in those cases you can use the static font files for Lexend Deca:
+  static/LexendDeca-Thin.ttf
+  static/LexendDeca-ExtraLight.ttf
+  static/LexendDeca-Light.ttf
+  static/LexendDeca-Regular.ttf
+  static/LexendDeca-Medium.ttf
+  static/LexendDeca-SemiBold.ttf
+  static/LexendDeca-Bold.ttf
+  static/LexendDeca-ExtraBold.ttf
+  static/LexendDeca-Black.ttf
 
 Get started
 -----------
